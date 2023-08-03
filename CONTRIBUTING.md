@@ -1,0 +1,3 @@
+# Contributor guidelines
+
+Work in progress...
